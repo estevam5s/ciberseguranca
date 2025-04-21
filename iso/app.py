@@ -3,6 +3,16 @@ import json
 from datetime import datetime
 import os
 
+# Para o PyInstaller encontrar os arquivos quando empacotado
+def resource_path(relative_path):
+    try:
+        # PyInstaller cria um diretório temporário e armazena o caminho em _MEIPASS
+        base_path = sys._MEIPASS
+    except Exception:
+        base_path = os.path.abspath(".")
+
+    return os.path.join(base_path, relative_path)
+
 app = Flask(__name__)
 
 # Create templates directory if it doesn't exist

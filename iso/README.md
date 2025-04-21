@@ -284,17 +284,17 @@ R: Sim, desenvolvedores podem modificar o arquivo `app.py` para adicionar, remov
 ## Contato e Suporte
 
 Para suporte técnico ou dúvidas sobre o uso do aplicativo, entre em contato com:
-
+   https://github.com/LTD-2025-1-Cyber-Security-Project/ciberseguranca/tree/delete/main/iso
 **Equipe de Segurança da Informação**  
 Email: seguranca@suaorganizacao.gov.br  
-Telefone: (XX) XXXX-XXXX
+Telefone: (48) 9 9999-9999
 
 **Encarregado de Proteção de Dados (DPO)**  
-Email: dpo@suaorganizacao.gov.br  
-Telefone: (XX) XXXX-XXXX
+Email: contato@LTD-2025-1-Cyber-Security-Project.com.br  
+Telefone: (48) 9 9999-9999
 
 ---
 
-© 2025 Sua Organização. Todos os direitos reservados.  
+© 2025 LTD-2025-1-Cyber-Security-Project. Todos os direitos reservados.  
 Versão da documentação: 1.0  
 Última atualização: 21/04/2025
