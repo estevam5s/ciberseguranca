@@ -216,6 +216,7 @@ CHECKLIST_SECTIONS = [
     }
 ]
 
+
 # # Helper functions for loading and saving checklist data
 def load_or_create_checklist():
     if os.path.exists('checklist_data.json'):
